@@ -1,0 +1,58 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Busca",
+            "request": "launch",
+            "mainClass": "view.Busca",
+            "projectName": "BIBLIOTECA-ESII-main_a6ca9d25"
+        },
+        {
+            "type": "java",
+            "name": "EmprestarLivro",
+            "request": "launch",
+            "mainClass": "view.EmprestarLivro",
+            "projectName": "BIBLIOTECA-ESII-main_a6ca9d25"
+        },
+        {
+            "type": "java",
+            "name": "TestConnection",
+            "request": "launch",
+            "mainClass": "database.TestConnection",
+            "projectName": "BIBLIOTECA-ESII-main_a6ca9d25"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "view.Menu",
+            "projectName": "BIBLIOTECA-ESII-main_a6ca9d25",
+            "vmArgs": "--module-path \"C:/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "BIBLIOTECA-ESII-main_a6ca9d25",
+            "vmArgs": "--module-path \"C:/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "CadastrarLivro",
+            "request": "launch",
+            "mainClass": "view.CadastrarLivro",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d",
+            "vmArgs": "--module-path \"C:/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Busca",
+            "request": "launch",
+            "mainClass": "view.Busca",
+            "projectName": "BIBLIOTECA-ESII_bcd6104d",
+            "vmArgs": "--module-path \"C:/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
